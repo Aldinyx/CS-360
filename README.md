@@ -1,5 +1,4 @@
-# CS-360
-Mobile Architecture &amp; Programming
+# CS-360: Mobile Architecture &amp; Programming
 # Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 The goal of the app I developed was to be an event tracker. This meant that the app needed to allow users to add, edit, and remove events from a list of events that remains persistent even if the user closes and reopens the app. Another goal of the app was to have a user login where users would enter a valid username and password combination or create a new login before accessing the app's main features. The app was also required to send an SMS notifications on the day of an event, regardless of whether the app was currently open. Overall, this app was meant to address the user needs of keeping track of events and setting simple reminders.
 # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
